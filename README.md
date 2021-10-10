@@ -1,7 +1,7 @@
 # Subsidy
 ## An income classifier system for individuals
   
-  Markup: * -> Subsidy  Inc. delivers subsidies to individuals based on their income.<br />
+  -> Subsidy  Inc. delivers subsidies to individuals based on their income.<br />
   -> Accurate income data is one of the hardest piece of data to obtain across the world.<br />
   -> Subsidy Inc. has obtained a large data set of unauthorized data of individual income, demographic parameters and few financial parameters.<br />
   -> Subsidy Inc. wishes us to:<br />
